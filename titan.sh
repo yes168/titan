@@ -4,7 +4,7 @@
 id="E221E36F-ACC0-4611-B947-99C1FC512A8B"
 
 # 固定节点数量
-container_count=5
+container_count=1
 
 # 固定存储空间大小
 storage_gb=1
